@@ -1,4 +1,7 @@
 # She Stands ♀️ | Women's Day 2026
+<img width="1848" height="889" alt="Screenshot 2026-03-08 170235" src="https://github.com/user-attachments/assets/a7360082-ba7c-47c5-a916-5269bb67060e" />
+<img width="745" height="698" alt="Screenshot 2026-03-08 170245" src="https://github.com/user-attachments/assets/d277a4b2-39e1-4ab2-b796-d8b53de4acf5" />
+<img width="1405" height="768" alt="Screenshot 2026-03-08 170252" src="https://github.com/user-attachments/assets/2576bdc6-4b51-4741-87bb-ef9755b2af70" />
 
 A professional full-stack MERN application built to celebrate the women who shape our world—from historical Indian trailblazers to the personal heroes in our daily lives.
 
